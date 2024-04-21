@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding-top: 20px 50px;
+    width: 100%;
+    font-size: 20px;
+}
+.container {
+    margin: 0;  
+    width: 100%;
+    justify-content: left;
+    text-align: left;
+}
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color:white;
+    border: solid 1px white;
+}
+#panel {
+    padding: 50px;
+}
+nav {
+    background-color: #548bf0;
+    text-align: center;
+    padding: 10px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 30px;
+}
+main {
+    padding: 20px;
+    margin: 50px;
+}
+aside {
+    float: right;
+    width: 100%;
+    background-color: white;
+    padding: 20px;
+    margin: 50px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding:50px;
+}
